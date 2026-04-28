@@ -1,3 +1,2 @@
 # data-science
-Data Science @ coursera
-I am taking the Data science course from John Hopkins university @ coursera and feeling excited to work towards completing my certification on this very interesting topic.
+This repo containing my datascience personal and university led projects including EDA (exploratory data analysis using seaborn, numpy and pandas libraries)
